@@ -29,6 +29,11 @@ To ensure reproducible model performance, random variable handling has been cond
 
 ## 1. Imbalanced Train Dataset
 The analysis of the training data revealed an imbalance between the labels. Though Borderline SMOTE was intended for use, due to the absence of the imblearn package in the server setup during the previous virtual environment construction period, simple resampling using the `resampling` function of sklearn was employed to address the label imbalance.
+
+### Imbalanced Train Dataset
+Decayed (1): 17000
+Not Decayed (0): 10000
+
 ### Balanced Train Dataset
 - Decayed (1): 17000
 - Not Decayed (0): 17000
