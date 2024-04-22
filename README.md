@@ -1,6 +1,4 @@
-## 2023 HealthCare AI Competetion SNUDH 
-### Oral image synthesis data for artificial intelligence learning project
-
+## 2023 HealthCare AI Competetion SNUDH - [Oral image synthesis data for artificial intelligence learning project]
 # <font color="blue"> 최종성적 - 3rd ( 우수상 )</font>
 
 # Breaking Problem
