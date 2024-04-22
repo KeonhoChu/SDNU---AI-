@@ -2,10 +2,6 @@
 ### Oral image synthesis data for artificial intelligence learning project
 
 # <font color="blue"> 최종성적 - 3rd ( 우수상 )</font>
-| Model            | Params | f1-score |
-|------------------|--------|----------|
-| EfficientNet B0 | 5.3M   | 0.9888   |
-| EfficientNet B3 | 12M    | 0.9974   |
 
 # Breaking Problem
 
