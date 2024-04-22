@@ -1,4 +1,4 @@
-# 2023 HealthCare AI Competetion SNUDH - [Oral image synthesis data for artificial intelligence learning project] 최종성적 - 3rd ( 우수상 )
+# 2023 HealthCare AI Competetion SNUDH - [Oral image synthesis data for artificial intelligence learning project] 
 ![2023 헬스케어 AI 경진대회(포스터](https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png)
 
 ## Table of Contents
@@ -21,6 +21,7 @@
    - [추진 (Organization)](#추진-organization)
 
 # Breaking Problem
+**최종성적 - 3rd ( 우수상 )**
 
 ## 0. Reproducible Model Performance
 To ensure reproducible model performance, random variable handling has been conducted. All random seeds were fixed to 41.
