@@ -1,4 +1,22 @@
 # 2023 HealthCare AI Competetion SNUDH - [Oral image synthesis data for artificial intelligence learning project] 최종성적 - 3rd ( 우수상 )
+## Table of Contents
+
+1. [Breaking Problem](#breaking-problem)
+   - [Reproducible Model Performance](#0-reproducible-model-performance)
+   - [Imbalanced Train Dataset](#1-imbalanced-train-dataset)
+   - [Model Training Speed](#2-model-training-speed)
+   - [Hyperparameters](#3-hyperparameters)
+   - [Evaluation Dataset (Validation Dataset) Size](#4-evaluation-dataset-validation-dataset-size)
+   - [Data Augmentation](#5-data-augmentation)
+   - [Saving the Best Performing Model](#6-saving-the-best-performing-model)
+
+2. [2023 HealthCare AI Competition SNUDH](#2023-healthcare-ai-competition-snudh)
+   - [대회주제 (Competition Theme)](#대회주제-competition-theme)
+   - [심사 및 평가방식 (Evaluation and Assessment Method)](#심사-및-평가방식-evaluation-and-assessment-method)
+   - [결과 제출 형식 (Submission Format)](#결과-제출-형식-submission-format)
+   - [시상 및 혜택 (Awards and Benefits)](#시상-및-혜택-awards-and-benefits)
+   - [경진대회 일정 (Competition Schedule)](#경진대회-일정-competition-schedule)
+   - [추진 (Organization)](#추진-organization)
 
 # Breaking Problem
 
