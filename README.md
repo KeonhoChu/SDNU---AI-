@@ -12,7 +12,8 @@
    - [Data Augmentation](#5-data-augmentation)
    - [Saving the Best Performing Model](#6-saving-the-best-performing-model)
 
-2. [2023 HealthCare AI Competition SNUDH](#2023-healthcare-ai-competition-snudh)
+2. [Challenge information](#Cahllenge-information)
+   - [2023 HealthCare AI Competition SNUDH](#2023-healthcare-ai-competition-snudh)
    - [대회주제 (Competition Theme)](#대회주제-competition-theme)
    - [심사 및 평가방식 (Evaluation and Assessment Method)](#심사-및-평가방식-evaluation-and-assessment-method)
    - [결과 제출 형식 (Submission Format)](#결과-제출-형식-submission-format)
@@ -72,7 +73,7 @@ Continuing training without improvement in performance becomes futile. Hence, ea
 
 
 
-
+# Challenge information
 # 2023 구강이미지 합성데이터 헬스케어 AI 경진대회
 
 구강이미지 합성 데이터 헬스케어 AI경진대회
