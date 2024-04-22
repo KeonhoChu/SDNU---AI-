@@ -1,4 +1,6 @@
 # 2023 HealthCare AI Competetion SNUDH - [Oral image synthesis data for artificial intelligence learning project] 최종성적 - 3rd ( 우수상 )
+![2023 헬스케어 AI 경진대회(포스터](https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png)
+
 ## Table of Contents
 
 1. [Breaking Problem](#breaking-problem)
@@ -69,8 +71,6 @@ Continuing training without improvement in performance becomes futile. Hence, ea
 
 
 
-
-![2023 헬스케어 AI 경진대회(포스터](https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png)
 
 # 2023 구강이미지 합성데이터 헬스케어 AI 경진대회
 
